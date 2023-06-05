@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902622545522",
+    "project_id": "flutterfilemanager-a937b",
+    "storage_bucket": "flutterfilemanager-a937b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902622545522:android:61127bca84c2bfca3564eb",
+        "android_client_info": {
+          "package_name": "com.example.file_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902622545522-n9e8upgmme9dj19t0dvj99p14qqdeg6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.file_manager",
+            "certificate_hash": "109ce543e001fe02478edcef920db80a7e8da8aa"
+          }
+        },
+        {
+          "client_id": "902622545522-i8e4fnhednsmqrhh1b4br41oshaqgn1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPCFEKH201vPHEpaXjS3QCWs5ARfTcWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902622545522-i8e4fnhednsmqrhh1b4br41oshaqgn1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
