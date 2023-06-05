@@ -1,16 +1,24 @@
-# file_manager
+# File Manger App Using GetX with Firebase Authencation
+an file manageing system app
 
-A new Flutter project.
+## Features
+- can create, read, update, delete folders
+- GetX as statemanagement
+- firebase Authencation with email and google sign_in 
+- Mvc folder structure
+## Deployment
+https://drive.google.com/file/d/1X-Djb4B6imG23vLs3Q9MI1LgY8sQdich/view?usp=sharing
 
-## Getting Started
+## Run Locally
+Clone the project
 
-This project is a starting point for a Flutter application.
+git clone 
+Go to the project directory https://github.com/IMnoble123/Flutter_file_manager_app.git
 
-A few resources to get you started if this is your first Flutter project:
+  cd my-project
+  - Install dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - flutter pub get
+ - Start the server
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - flutter run
